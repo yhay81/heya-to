@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="部屋灯">
+  <rect width="64" height="64" rx="13" fill="#151c2b"/>
+  <g stroke="#151c2b" stroke-width="2">
+    <rect x="9" y="17" width="7" height="30" rx="3.5" fill="#9a88f2"/>
+    <rect x="19" y="23" width="7" height="24" rx="3.5" fill="#c7ef5b"/>
+    <rect x="29" y="17" width="7" height="30" rx="3.5" fill="#c7ef5b"/>
+    <rect x="39" y="23" width="7" height="24" rx="3.5" fill="#c7ef5b"/>
+    <rect x="49" y="17" width="7" height="30" rx="3.5" fill="#c7ef5b"/>
+  </g>
+</svg>

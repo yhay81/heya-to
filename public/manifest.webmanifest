@@ -1,0 +1,16 @@
+{
+  "name": "部屋灯",
+  "short_name": "部屋灯",
+  "description": "協力ライブの5桁と残り席を12分だけ置く短期募集盤",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f1eb",
+  "theme_color": "#151c2b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

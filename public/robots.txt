@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /r/
+Disallow: /m/
+
+Sitemap: https://heya-to.yhay81.com/sitemap.xml

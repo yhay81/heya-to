@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">部屋灯</title>
+  <desc id="description">5桁のルーム番号、5席、12分の時間レールを表す短期協力ルーム募集盤</desc>
+  <rect width="1200" height="630" fill="#f2f1eb"/>
+  <rect x="34" y="34" width="1132" height="562" rx="28" fill="#151c2b"/>
+  <path d="M76 125h1048M76 502h1048" stroke="#303a50" stroke-width="2"/>
+  <g transform="translate(78 73)">
+    <g stroke="#151c2b" stroke-width="2">
+      <rect width="10" height="34" rx="5" fill="#9a88f2"/>
+      <rect x="15" y="7" width="10" height="27" rx="5" fill="#c7ef5b"/>
+      <rect x="30" width="10" height="34" rx="5" fill="#c7ef5b"/>
+      <rect x="45" y="7" width="10" height="27" rx="5" fill="#c7ef5b"/>
+      <rect x="60" width="10" height="34" rx="5" fill="#c7ef5b"/>
+    </g>
+    <text x="92" y="27" fill="#fffef9" font-family="Yu Gothic UI, sans-serif" font-size="25" font-weight="700" letter-spacing="3">CO-OP ROOM SIGNAL</text>
+    <circle cx="1013" cy="17" r="9" fill="#c7ef5b"/>
+    <text x="1035" y="23" fill="#c9c8bf" font-family="Consolas, monospace" font-size="18">LIVE</text>
+  </g>
+  <g transform="translate(76 155)">
+    <rect width="610" height="302" rx="18" fill="#0b101b" stroke="#465168" stroke-width="2"/>
+    <text x="31" y="39" fill="#777d89" font-family="Consolas, monospace" font-size="16" font-weight="700" letter-spacing="3">ROOM CODE</text>
+    <g transform="translate(31 59)" font-family="Consolas, monospace" font-size="66" font-weight="700" text-anchor="middle">
+      <g>
+        <rect width="94" height="112" rx="9" fill="#151c2b" stroke="#566179" stroke-width="2"/>
+        <path d="M15 18h64M15 94h64" stroke="#273044"/>
+        <text x="47" y="79" fill="#c7ef5b">5</text>
+      </g>
+      <g transform="translate(112)">
+        <rect width="94" height="112" rx="9" fill="#151c2b" stroke="#566179" stroke-width="2"/>
+        <path d="M15 18h64M15 94h64" stroke="#273044"/>
+        <text x="47" y="79" fill="#c7ef5b">8</text>
+      </g>
+      <g transform="translate(224)">
+        <rect width="94" height="112" rx="9" fill="#151c2b" stroke="#566179" stroke-width="2"/>
+        <path d="M15 18h64M15 94h64" stroke="#273044"/>
+        <text x="47" y="79" fill="#c7ef5b">3</text>
+      </g>
+      <g transform="translate(336)">
+        <rect width="94" height="112" rx="9" fill="#151c2b" stroke="#566179" stroke-width="2"/>
+        <path d="M15 18h64M15 94h64" stroke="#273044"/>
+        <text x="47" y="79" fill="#c7ef5b">1</text>
+      </g>
+      <g transform="translate(448)">
+        <rect width="94" height="112" rx="9" fill="#151c2b" stroke="#566179" stroke-width="2"/>
+        <path d="M15 18h64M15 94h64" stroke="#273044"/>
+        <text x="47" y="79" fill="#c7ef5b">0</text>
+      </g>
+    </g>
+    <g transform="translate(31 205)">
+      <rect width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="43" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="86" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="129" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="172" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="215" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="258" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="301" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="344" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="387" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="430" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <rect x="473" width="36" height="7" rx="3.5" fill="#c7ef5b"/>
+      <text x="542" y="11" fill="#fffef9" font-family="Consolas, monospace" font-size="18" font-weight="700">12 MIN</text>
+    </g>
+    <path d="M31 246h548" stroke="#303a50"/>
+    <text x="31" y="279" fill="#c9c8bf" font-family="Yu Gothic UI, sans-serif" font-size="18">5桁を置く。12分で消灯。</text>
+  </g>
+  <g transform="translate(731 155)">
+    <rect width="393" height="302" rx="18" fill="#fffef9"/>
+    <text x="28" y="39" fill="#666d79" font-family="Consolas, monospace" font-size="16" font-weight="700" letter-spacing="3">5 SEATS</text>
+    <g transform="translate(27 76)" stroke="#151c2b" stroke-width="4">
+      <g>
+        <circle cx="31" cy="31" r="27" fill="#9a88f2"/>
+        <path d="M7 68c0-19 10-28 24-28s24 9 24 28v20H7z" fill="#9a88f2"/>
+      </g>
+      <g transform="translate(70)">
+        <circle cx="31" cy="31" r="27" fill="#c7ef5b"/>
+        <path d="M7 68c0-19 10-28 24-28s24 9 24 28v20H7z" fill="#c7ef5b"/>
+      </g>
+      <g transform="translate(140)">
+        <circle cx="31" cy="31" r="27" fill="#c7ef5b"/>
+        <path d="M7 68c0-19 10-28 24-28s24 9 24 28v20H7z" fill="#c7ef5b"/>
+      </g>
+      <g transform="translate(210)">
+        <circle cx="31" cy="31" r="27" fill="#c7ef5b"/>
+        <path d="M7 68c0-19 10-28 24-28s24 9 24 28v20H7z" fill="#c7ef5b"/>
+      </g>
+      <g transform="translate(280)">
+        <circle cx="31" cy="31" r="27" fill="#fffef9" stroke="#777d89"/>
+        <path d="M7 68c0-19 10-28 24-28s24 9 24 28v20H7z" fill="#fffef9" stroke="#777d89"/>
+      </g>
+    </g>
+    <g transform="translate(28 208)">
+      <rect width="106" height="38" rx="19" fill="#c7ef5b" stroke="#151c2b" stroke-width="2"/>
+      <text x="53" y="25" fill="#151c2b" font-family="Yu Gothic UI, sans-serif" font-size="15" font-weight="700" text-anchor="middle">あと1人</text>
+      <rect x="119" width="105" height="38" rx="19" fill="#f2f1eb" stroke="#777d89"/>
+      <text x="171" y="25" fill="#29344a" font-family="Yu Gothic UI, sans-serif" font-size="14" font-weight="700" text-anchor="middle">ミスOK</text>
+      <rect x="237" width="100" height="38" rx="19" fill="#f2f1eb" stroke="#777d89"/>
+      <text x="287" y="25" fill="#29344a" font-family="Yu Gothic UI, sans-serif" font-size="14" font-weight="700" text-anchor="middle">途中OK</text>
+    </g>
+    <path d="M28 268h337" stroke="#c9c8bf"/>
+    <circle cx="39" cy="284" r="5" fill="#78dce8"/>
+    <text x="54" y="290" fill="#666d79" font-family="Yu Gothic UI, sans-serif" font-size="15">名前も連絡先もいらない</text>
+  </g>
+  <g transform="translate(76 528)">
+    <text x="0" y="35" fill="#fffef9" font-family="Yu Gothic UI, sans-serif" font-size="38" font-weight="800" letter-spacing="4">部屋灯</text>
+    <text x="147" y="32" fill="#c9c8bf" font-family="Yu Gothic UI, sans-serif" font-size="23">5桁を置く。5人が灯る。</text>
+    <g transform="translate(874 4)">
+      <circle cx="16" cy="16" r="15" fill="#9a88f2"/>
+      <circle cx="56" cy="16" r="15" fill="#c7ef5b"/>
+      <circle cx="96" cy="16" r="15" fill="#78dce8"/>
+      <circle cx="136" cy="16" r="15" fill="#f07c61"/>
+      <circle cx="176" cy="16" r="15" fill="#fffef9"/>
+    </g>
+  </g>
+</svg>
